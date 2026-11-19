@@ -25,7 +25,7 @@ This project turns raw pizza order data into a clean, interactive dashboard. The
 
 ## 🧮 Pivot Tables
 
-![Pivot Tables](images/pivot-tables.png)
+![Pivot Tables](images/Pizza-Sales-Pivot.png)
 
 | # | Pivot Table | Fields Used | What It Shows |
 |---|---|---|---|
@@ -49,7 +49,7 @@ This project turns raw pizza order data into a clean, interactive dashboard. The
 
 ## 📊 Dashboard
 
-![Pizza Sales Dashboard](images/dashboard.jpg)
+![Pizza Sales Dashboard](images/Pizza-Sales-Dashboard.jpg)
 
 ### KPI Header
 Four cards at the top show **Total Sales ($8,436)**, **Total Quantities (511)**, **Total Customers (499)** and **Total Orders (499)**.
